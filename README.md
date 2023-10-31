@@ -1,3 +1,3 @@
 ### financial econometrics
 
-#### Assignment in Financial Econometrics
+#### Assignment and final exam in Financial Econometrics
